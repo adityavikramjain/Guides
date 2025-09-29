@@ -1,8 +1,4 @@
----
 
-### `html_presentation_json_schema_examples.md`
-
-```markdown
 # HTML Presentation JSON Schema Examples (Material Design 3 Optimized)
 
 This document provides detailed examples of the JSON structure for various slide layouts, optimized for a modern HTML presentation using Material Design 3 components and icons. These examples illustrate how to construct the `content` array for different `layout` types and how to incorporate M3-style icons.
@@ -151,8 +147,4 @@ This document provides detailed examples of the JSON structure for various slide
   "notes": "Reiterate the main call to action and inspire confidence.",
   "cognitiveLoad": "Medium"
 }
-```
-
----
-
 These knowledge files will provide Maestro with a rich vocabulary of M3 icons and a clear understanding of how to structure the JSON for various slide types, aligning perfectly with your vision for a modern, icon-driven HTML presentation.
