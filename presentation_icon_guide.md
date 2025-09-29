@@ -1,12 +1,4 @@
-Excellent choice! Google Material Design 3 (M3) expressive components and icons will give your presentations a modern, flexible, and visually rich aesthetic.
 
-Here are the two knowledge files, tailored to M3 principles and icons:
-
----
-
-### `presentation_icon_guide.md`
-
-```markdown
 # Google Material Design 3 Icon Guide for Presentations
 
 This guide provides a curated list of Google Material Design 3 (M3) icons and their common meanings/associations, suitable for use in presentation slides. The goal is to suggest expressive, clear, and visually appealing icons that enhance the message without clutter.
@@ -83,7 +75,5 @@ This guide provides a curated list of Google Material Design 3 (M3) icons and th
 *   **Simplicity:** `sparkle`, `light_mode`
 *   **Complexity:** `layers`, `grid_on`
 
----
-```
 ---
 
